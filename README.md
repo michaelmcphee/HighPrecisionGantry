@@ -1,2 +1,2 @@
 # HighPrecisionGantry
-For our final MTE 100 design course, three classmates and I designed a high precision 2-axis gantry designed to type on a keyboard.
+For our final MTE 100 design course, three classmates and I designed a high-precision 2-axis gantry designed to type on a keyboard. Using an array of sensors to interact with the environment, it could send SMS texts (by navigating the TextNow desktop interface) with a couple of extra easter eggs thrown in too! 🐣🐰 The final prototype could accurately actuate any desired key on the keyboard with a precision of +/- 5mm once calibrated!
